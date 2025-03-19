@@ -3,3 +3,4 @@ ya .net benisuif (soft)
 change in f1
 change in main
 function main (){}
+function f1(){}
